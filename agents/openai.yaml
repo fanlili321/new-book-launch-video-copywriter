@@ -1,0 +1,7 @@
+interface:
+  display_name: "新书视频文案生成"
+  short_description: "根据新书公众号文章生成、复盘并归档系列宣传视频口播文案"
+  default_prompt: "使用 $new-book-video-copywriter，根据已确认的新书公众号文章和历史确认稿生成宣传视频文案。"
+
+policy:
+  allow_implicit_invocation: true
